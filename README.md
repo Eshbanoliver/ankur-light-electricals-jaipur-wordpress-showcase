@@ -17,7 +17,6 @@ Custom WordPress website developed for Ankur Light and Electricals, a trusted li
 - About section highlighting 30+ years experience (since 1992), authorized Ledvance (Osram) distributor, genuine products, expert guidance, fast support, and flexible solutions
 - Stats counters: 30+ Years Experience, 95% Repeat Clients, 90% Genuine Brands
 - Testimonials carousel with real customer feedback on quality products, knowledgeable staff, polite service, easy installation, warranties, and overall experience
-- Contact section with phone (+91 77373 93284), address (Shop No. 15, Corner RHB New Aatish Market, Mansarovar, Jaipur), and inquiry options
 - Responsive design optimized for product visuals (mobile-first)
 - SEO-friendly for local Jaipur lighting showroom searches
 
